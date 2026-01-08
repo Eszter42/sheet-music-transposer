@@ -1,0 +1,11 @@
+C:\xampp\htdocs\Projects\sheet-music-transposer\server\src\Transposer.Domain\bin\Debug\net10.0\Transposer.Domain.deps.json
+C:\xampp\htdocs\Projects\sheet-music-transposer\server\src\Transposer.Domain\bin\Debug\net10.0\Transposer.Domain.dll
+C:\xampp\htdocs\Projects\sheet-music-transposer\server\src\Transposer.Domain\bin\Debug\net10.0\Transposer.Domain.pdb
+C:\xampp\htdocs\Projects\sheet-music-transposer\server\src\Transposer.Domain\obj\Debug\net10.0\Transposer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Projects\sheet-music-transposer\server\src\Transposer.Domain\obj\Debug\net10.0\Transposer.Domain.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Projects\sheet-music-transposer\server\src\Transposer.Domain\obj\Debug\net10.0\Transposer.Domain.AssemblyInfo.cs
+C:\xampp\htdocs\Projects\sheet-music-transposer\server\src\Transposer.Domain\obj\Debug\net10.0\Transposer.Domain.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Projects\sheet-music-transposer\server\src\Transposer.Domain\obj\Debug\net10.0\Transposer.Domain.dll
+C:\xampp\htdocs\Projects\sheet-music-transposer\server\src\Transposer.Domain\obj\Debug\net10.0\refint\Transposer.Domain.dll
+C:\xampp\htdocs\Projects\sheet-music-transposer\server\src\Transposer.Domain\obj\Debug\net10.0\Transposer.Domain.pdb
+C:\xampp\htdocs\Projects\sheet-music-transposer\server\src\Transposer.Domain\obj\Debug\net10.0\ref\Transposer.Domain.dll

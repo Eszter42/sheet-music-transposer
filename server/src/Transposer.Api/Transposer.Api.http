@@ -1,0 +1,6 @@
+@Transposer.Api_HostAddress = http://localhost:5272
+
+GET {{Transposer.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
