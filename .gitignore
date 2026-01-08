@@ -1,18 +1,17 @@
-# .NET / Visual Studio
+# .NET build outputs
 **/bin/
 **/obj/
+
+# Visual Studio / VS Code
 .vs/
-*.user
-*.suo
+.vscode/
 
 # Node / Vite
-client/node_modules/
+**/node_modules/
 **/dist/
 **/.vite/
-npm-debug.log*
-yarn-debug.log*
-pnpm-debug.log*
 
-# Env
+# Logs / env
+npm-debug.log*
 .env
 .env.*
